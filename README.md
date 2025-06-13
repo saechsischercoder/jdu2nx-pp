@@ -66,7 +66,6 @@ javascript:(function()%7Balert((webpackChunkdiscord_app.push(%5B%5B''%5D%2C%7B%7
 
 Your jdu2nx++ installation is now complete and ready for automated Just Dance modding!
 
----
 
 ## 🔧 Configuration
 
@@ -78,8 +77,6 @@ All settings are managed through the config file. Ensure you've properly set:
 ## 📚 Usage
 
 Simply run the tool with your desired codename and coach count - the automation handles everything else seamlessly.
-
----
 
 ## ⚠️ Security Notice
 
