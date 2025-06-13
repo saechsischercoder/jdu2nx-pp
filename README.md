@@ -7,7 +7,7 @@
 
 ## What It Does
 
-jdu2nx++ is a powerful modification of the original automodder from c0llydoll/Just-Dance-UbiArt-Nx-Automodder[1]. Simply provide a **codename** and **coach count**, and the tool handles the entire modding process automatically - no manual intervention required.
+jdu2nx++ is a powerful modification of the original automodder from c0llydoll/Just-Dance-UbiArt-Nx-Automodder. Simply provide a **codename** and **coach count**, and the tool handles the entire modding process automatically - no manual intervention required.
 
 ## 🚀 Quick Setup
 
@@ -19,7 +19,7 @@ jdu2nx++ is a powerful modification of the original automodder from c0llydoll/Ju
 ### **Installation Steps**
 
 #### 1. **Download & Extract**
-Download the latest release from the [releases tab](../../releases) and extract to your preferred directory.
+Download the source code ZIP and extract to your preferred directory.
 
 #### 2. **Install Dependencies**
 ```bash
